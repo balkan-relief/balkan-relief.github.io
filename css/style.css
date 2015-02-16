@@ -1765,10 +1765,6 @@ i.fa {
 #footer {
   clear: both;
 }
-/*** IE6 Fix ***/
-* html #left {
-  left: 150px;           /* RC width */
-}
 
 .people {
 	width: 188px;
